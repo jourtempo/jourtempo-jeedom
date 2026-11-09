@@ -1,0 +1,23 @@
+{
+  "id": "jourtempo",
+  "name": "Jour Tempo",
+  "pluginVersion": "1.0",
+  "description": {
+    "fr_FR": "Couleur Tempo et jour EJP d'aujourd'hui et de demain, jours restants de la saison et part historique de jours rouges, depuis l'API gratuite de jourtempo.fr. Sans clé ni compte."
+  },
+  "licence": "GPL",
+  "author": "Jour Tempo",
+  "require": "4.2",
+  "category": "energy",
+  "hasDependency": false,
+  "hasOwnDeamon": false,
+  "maxDependancyInstallTime": 0,
+  "documentation": "https://github.com/jourtempo/jourtempo-jeedom/blob/main/docs/fr_FR/index.md",
+  "changelog": "https://github.com/jourtempo/jourtempo-jeedom/blob/main/docs/fr_FR/changelog.md",
+  "link": {
+    "forum": "",
+    "video": ""
+  },
+  "language": ["fr_FR"],
+  "compatibility": ["smart", "luna", "atlas", "rpi", "docker", "diy", "mobile"]
+}
